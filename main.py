@@ -2,7 +2,6 @@ from challenges import scope_challenges, reference_challenges
 
 def main():
 
-    # scope
     scope_challenges.challenge_01()
     scope_challenges.challenge_02()
     scope_challenges.challenge_03()
